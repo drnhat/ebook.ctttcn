@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title>Nhung moi tinh trong trai cai nghien</dc:title>
+      <dc:creator>Frogman</dc:creator>
+      <dc:language>en</dc:language>
+      <dc:identifier id="BookId">18+, tinh cam, lang man</dc:identifier>
+      <dc:subject>General Fiction</dc:subject>
+      <dc:date>2015-02-18</dc:date>
+        <meta name="cover" content="CoverDesign"/>
+    </metadata>
+    <manifest>
+        <item id="toc" href="toc.ncx"
+          media-type="application/x-dtbncx+xml" />
+        <item id="CoverDesign" href="CoverDesign.jpg"
+          media-type="image/jpeg" />
+        <item id="CoverPage" href="CoverPage.html"
+          media-type="application/xhtml+xml" />
+        <item id="TableOfContents" href="TableOfContents.html"
+          media-type="application/xhtml+xml" />
+        <item id="style" href="style.css"
+          media-type="text/css" />
+        <item id="Chap01" href="Chap 01.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap02" href="Chap 02.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap03" href="Chap 03.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap04" href="Chap 04.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap05" href="Chap 05.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap06" href="Chap 06.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap07" href="Chap 07.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap08" href="Chap 08.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap09" href="Chap 09.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap10" href="Chap 10.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap11" href="Chap 11.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap12" href="Chap 12.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap13" href="Chap 13.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap14" href="Chap 14.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap15" href="Chap 15.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap16" href="Chap 16.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap17" href="Chap 17.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap18" href="Chap 18.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap19" href="Chap 19.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap20" href="Chap 20.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap21" href="Chap 21.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap22" href="Chap 22.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap23" href="Chap 23.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap24" href="Chap 24.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap25" href="Chap 25.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap26" href="Chap 26.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap27" href="Chap 27.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap28" href="Chap 28.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap29" href="Chap 29.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap30" href="Chap 30.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap31" href="Chap 31.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap32" href="Chap 32.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap33" href="Chap 33.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap34" href="Chap 34.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap35" href="Chap 35.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap36" href="Chap 36.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap37" href="Chap 37.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap38" href="Chap 38.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap39" href="Chap 39.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap40" href="Chap 40.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap41" href="Chap 41.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap42" href="Chap 42.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap43" href="Chap 43.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap44" href="Chap 44.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap45" href="Chap 45.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap46" href="Chap 46.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap47" href="Chap 47.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap48" href="Chap 48.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap49" href="Chap 49.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap50" href="Chap 50.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap51" href="Chap 51.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap52" href="Chap 52.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap53" href="Chap 53.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap54" href="Chap 54.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap55" href="Chap 55.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap56" href="Chap 56.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap57" href="Chap 57.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap58" href="Chap 58.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap59" href="Chap 59.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap60" href="Chap 60.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap61" href="Chap 61.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap62" href="Chap 62.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap63" href="Chap 63.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap64" href="Chap 64.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap65" href="Chap 65.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap66" href="Chap 66.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap67" href="Chap 67.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap68" href="Chap 68.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap69" href="Chap 69.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap70" href="Chap 70.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap71" href="Chap 71.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap72" href="Chap 72.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap73" href="Chap 73.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap74" href="Chap 74.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap75" href="Chap 75.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap76" href="Chap 76.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap77" href="Chap 77.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap78" href="Chap 78.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap79" href="Chap 79.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap80" href="Chap 80.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap81" href="Chap 81.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap82" href="Chap 82.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap83" href="Chap 83.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap84" href="Chap 84.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap85" href="Chap 85.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap86" href="Chap 86.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap87" href="Chap 87.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap88" href="Chap 88.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap89" href="Chap 89.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap90" href="Chap 90.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap91" href="Chap 91.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap92" href="Chap 92.html"
+          media-type="application/xhtml+xml" />
+        <item id="Chap93" href="Chap 93.html"
+          media-type="application/xhtml+xml" />
+    </manifest>
+    <spine toc="toc">
+        <itemref idref="CoverPage" linear="no"/>
+        <itemref idref="TableOfContents"/>
+        <itemref idref="Chap01"/>
+        <itemref idref="Chap02"/>
+        <itemref idref="Chap03"/>
+        <itemref idref="Chap04"/>
+        <itemref idref="Chap05"/>
+        <itemref idref="Chap06"/>
+        <itemref idref="Chap07"/>
+        <itemref idref="Chap08"/>
+        <itemref idref="Chap09"/>
+        <itemref idref="Chap10"/>
+        <itemref idref="Chap11"/>
+        <itemref idref="Chap12"/>
+        <itemref idref="Chap13"/>
+        <itemref idref="Chap14"/>
+        <itemref idref="Chap15"/>
+        <itemref idref="Chap16"/>
+        <itemref idref="Chap17"/>
+        <itemref idref="Chap18"/>
+        <itemref idref="Chap19"/>
+        <itemref idref="Chap20"/>
+        <itemref idref="Chap21"/>
+        <itemref idref="Chap22"/>
+        <itemref idref="Chap23"/>
+        <itemref idref="Chap24"/>
+        <itemref idref="Chap25"/>
+        <itemref idref="Chap26"/>
+        <itemref idref="Chap27"/>
+        <itemref idref="Chap28"/>
+        <itemref idref="Chap29"/>
+        <itemref idref="Chap30"/>
+        <itemref idref="Chap31"/>
+        <itemref idref="Chap32"/>
+        <itemref idref="Chap33"/>
+        <itemref idref="Chap34"/>
+        <itemref idref="Chap35"/>
+        <itemref idref="Chap36"/>
+        <itemref idref="Chap37"/>
+        <itemref idref="Chap38"/>
+        <itemref idref="Chap39"/>
+        <itemref idref="Chap40"/>
+        <itemref idref="Chap41"/>
+        <itemref idref="Chap42"/>
+        <itemref idref="Chap43"/>
+        <itemref idref="Chap44"/>
+        <itemref idref="Chap45"/>
+        <itemref idref="Chap46"/>
+        <itemref idref="Chap47"/>
+        <itemref idref="Chap48"/>
+        <itemref idref="Chap49"/>
+        <itemref idref="Chap50"/>
+        <itemref idref="Chap51"/>
+        <itemref idref="Chap52"/>
+        <itemref idref="Chap53"/>
+        <itemref idref="Chap54"/>
+        <itemref idref="Chap55"/>
+        <itemref idref="Chap56"/>
+        <itemref idref="Chap57"/>
+        <itemref idref="Chap58"/>
+        <itemref idref="Chap59"/>
+        <itemref idref="Chap60"/>
+        <itemref idref="Chap61"/>
+        <itemref idref="Chap62"/>
+        <itemref idref="Chap63"/>
+        <itemref idref="Chap64"/>
+        <itemref idref="Chap65"/>
+        <itemref idref="Chap66"/>
+        <itemref idref="Chap67"/>
+        <itemref idref="Chap68"/>
+        <itemref idref="Chap69"/>
+        <itemref idref="Chap70"/>
+        <itemref idref="Chap71"/>
+        <itemref idref="Chap72"/>
+        <itemref idref="Chap73"/>
+        <itemref idref="Chap74"/>
+        <itemref idref="Chap75"/>
+        <itemref idref="Chap76"/>
+        <itemref idref="Chap77"/>
+        <itemref idref="Chap78"/>
+        <itemref idref="Chap79"/>
+        <itemref idref="Chap80"/>
+        <itemref idref="Chap81"/>
+        <itemref idref="Chap82"/>
+        <itemref idref="Chap83"/>
+        <itemref idref="Chap84"/>
+        <itemref idref="Chap85"/>
+        <itemref idref="Chap86"/>
+        <itemref idref="Chap87"/>
+        <itemref idref="Chap88"/>
+        <itemref idref="Chap89"/>
+        <itemref idref="Chap90"/>
+        <itemref idref="Chap91"/>
+        <itemref idref="Chap92"/>
+        <itemref idref="Chap93"/>
+    </spine>
+    <guide>
+        <reference type="cover" title="Cover Page"
+            href="CoverPage.html" />
+        <reference type="toc" title="Table of Contents"
+            href="TableOfContents.html" />
+    </guide>
+</package>
